@@ -1,0 +1,4 @@
+interface:
+  display_name: "ME2605 出题助手"
+  short_description: "提炼最新 PPT 核心概念，设计并核查随堂单选题"
+  default_prompt: "用 $me2605-quiz-designer 阅读这份最新 PPT，先提炼已讲核心概念，再据此起草供导师审阅的 quiz。"
